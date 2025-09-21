@@ -1,0 +1,37 @@
+[2025-08-27 21:21:14] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-27 21:21:14] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine started
+[2025-08-27 21:21:14] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine stopped
+[2025-08-27 21:21:59] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-27 21:21:59] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine started
+[2025-08-27 21:21:59] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine stopped
+[2025-08-28 06:42:59] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-28 06:42:59] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine started
+[2025-08-28 06:42:59] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine stopped
+[2025-08-30 20:10:51] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.nt.config.AppConfig]
+[2025-08-30 20:23:54] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.nt.config.AppConfig]
+[2025-08-30 20:25:49] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-30 20:25:49] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine started
+[2025-08-30 20:25:49] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine stopped
+[2025-08-30 20:25:56] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-30 20:25:56] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine started
+[2025-08-30 20:25:56] INFO  com.nt.sbeans.PetrolEngine - Petrol Engine stopped
+[2025-08-30 20:27:18] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-30 20:27:18] INFO  com.nt.sbeans.DieselEngine - 0 param Constructor
+[2025-08-30 20:27:18] INFO  com.nt.sbeans.DieselEngine - Diesel Engine started
+[2025-08-30 20:27:18] INFO  com.nt.sbeans.DieselEngine - Diesel Engine stopped
+[2025-08-30 20:28:23] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-30 20:28:23] INFO  com.nt.sbeans.DieselEngine - 0 param Constructor
+[2025-08-30 20:28:23] INFO  com.nt.sbeans.DieselEngine - Diesel Engine started
+[2025-08-30 20:28:23] INFO  com.nt.sbeans.DieselEngine - Diesel Engine stopped
+[2025-08-30 20:29:18] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-30 20:29:18] INFO  com.nt.sbeans.DieselEngine - 0 param Constructor
+[2025-08-30 20:29:18] INFO  com.nt.sbeans.DieselEngine - Diesel Engine started
+[2025-08-30 20:29:18] INFO  com.nt.sbeans.DieselEngine - Diesel Engine stopped
+[2025-08-30 20:34:30] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'vehicle': Unsatisfied dependency expressed through field 'engg': No qualifying bean of type 'com.nt.sbeans.IEngine' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true), @org.springframework.beans.factory.annotation.Qualifier("motor")}
+[2025-08-30 20:35:05] INFO  com.nt.sbeans.DieselEngine - 0 param Constructor
+[2025-08-30 20:35:05] INFO  com.nt.sbeans.DieselEngine - Diesel Engine started
+[2025-08-30 20:35:05] INFO  com.nt.sbeans.DieselEngine - Diesel Engine stopped
+[2025-08-30 20:35:29] INFO  com.nt.sbeans.PetrolEngine - 0 param Constructor
+[2025-08-30 20:35:29] INFO  com.nt.sbeans.DieselEngine - 0 param Constructor
+[2025-08-30 20:35:29] INFO  com.nt.sbeans.DieselEngine - Diesel Engine started
+[2025-08-30 20:35:29] INFO  com.nt.sbeans.DieselEngine - Diesel Engine stopped
